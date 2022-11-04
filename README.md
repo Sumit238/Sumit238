@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 # **About me** :
 
-- I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
-- I 😍love to **create and modify new products** and projects👨‍💻.
+- I like help Teams/org with Automating daily process 🕵️ find solutions for them..
+- I like to **Improve efficency and performace of pre build applications** and projects👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
-- I **build** Autonoumous and Manual **Robots**🤺.
-- I 👨‍🏫love to **share** my **knowledge** and **experience** in **workshops** organized for students.
+- I 👨‍🏫love to **share** my **knowledge** and **experience** with peers.
 - Always excited and ready to **learn new skills👨‍🎓**.
+- I love playing **chess** ![chess.com profile](https://www.chess.com/member/sumitchoube) <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png" alt="https://www.chess.com/member/sumitchoube"/>
 
 
 <!-- Contribution Graph-->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-[![@Sumit238's Holopin board](https://holopin.me/Sumit238)](https://holopin.io/@Sumit238)
+<!-- [![@Sumit238's Holopin board](https://holopin.me/Sumit238)](https://holopin.io/@Sumit238) -->
 
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
