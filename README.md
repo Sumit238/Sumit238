@@ -12,28 +12,22 @@
 Here are some ideas to get you started:
 -->
 
-- 👨‍💻 I’m currently working on my **Competitive Programming** and **Problem Solving Skills**.
-- 🤯 I’m currently learning advanced **DataStructures and Algorithms**
-- 🤩 I’m looking to collaborate on **Web Development** Projects
-- 👨‍🏭 **Mechanical Graduate** and **Software Developer** 
+- 👋 Hi, I’m Sumit Choube,- currently working as **Data Engineer** and with interest in Web development as well .
+- 👀 I’m interested in **Web Development** (MERN Stack) , **DSA/Algorithms** , **Data Engineering/Buisness Intelligence** (Power BI,MSBI,Snoflakes,Databricks,PySpark,ETL),
+- 🌱 I’m currently learning **Snowflakes** and **Pyspark ETL**
+- 💞️ I’m looking to collaborate on **Data Engineering** and **Web dev stuff**.
+- 👨‍💻 I also like to solve **DSA/Algorithm problem** .
+- 👨‍🏭 **Electronics Engineer** and **Data Engineer** 
 
 <a href="https://leetcode.com/Sumit238/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="https://www.linkedin.com/in/Sumit238">
+<a href="https://in.linkedin.com/in/sumit-choube-a28a84167">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
-<a href="mailto:Sumit238patil01071999@gmail.com">
+<a href="mailto:sumitchoube.work238@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/PatilSumit238">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/pyyhacker/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 
 # **About me** :
 
@@ -80,9 +74,7 @@ Here are some ideas to get you started:
 </p>
 
 ## **Wanna know more about me?** 
-**Send me an email** : jpatil0107@gmail.com
-
-**Give a call at 📲** : <a href="tel:+919075735639">9075735639</a>
+**Send me an email** : sumitchoube.work238@gmail.com
 
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
