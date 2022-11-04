@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
 - I 👨‍🏫love to **share** my **knowledge** and **experience** with peers.
 - Always excited and ready to **learn new skills👨‍🎓**.
-- I love playing **chess** <a href="https://www.chess.com/member/sumitchoube">
-  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png" width="40px" height="40px"/> 
+- I love playing **Chess** - My chess.com profile : <a href="https://www.chess.com/member/sumitchoube">
+  <img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpZA7QOK.png" height="20px"/> 
  </a> 
 
 
