@@ -96,8 +96,6 @@ Here are some ideas to get you started:
 <a href ="https://github.com/Sumit238" title="Redirect's to Sumit238 Github">
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit238&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
-<a href="https://github.com/Sumit238/High-On-DSA" title="Redirect's to High On DSA Repository">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitChoube238&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 
 </p>
