@@ -13,11 +13,9 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Sumit Choube,- currently working as **Data Engineer** and with interest in Web development as well .
-- 👀 I’m interested in **Web Development** (MERN Stack) , **DSA/Algorithms** , **Data Engineering/Buisness Intelligence** (Power BI,MSBI,Snoflakes,Databricks,PySpark,ETL),
-- 🌱 I’m currently learning **Snowflakes** and **Pyspark ETL**
+- 👀 I’m do  **DSA/Algorithms** , **Data Engineering/Buisness Intelligence** (Power BI,MSBI,,Databricks,PySpark,ETL), **Web Development** (MERN Stack) , ,
 - 💞️ I’m looking to collaborate on **Data Engineering** and **Web dev stuff**.
-- 👨‍💻 I also like to solve **DSA/Algorithm problem** .
-- 👨‍🏭 **Electronics Engineer** and **Data Engineer** 
+- 👨‍💻 I like to solve **DSA/Algorithm problem** .
 
 <a href="https://leetcode.com/Sumit238/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
